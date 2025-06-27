@@ -12,7 +12,7 @@ Contains a selection of synthetically generated handwritten chemical formula ima
 
 **Download Trained Weights**
 
-The trained model weights are large files and have been uploaded to Google Drive.
+The trained model weights have been uploaded to Google Drive.
 
 Download link: https://drive.google.com/file/d/1ahZdjn0kYzgVLHQUSTkOY1ljEn3QNLK1/view?usp=sharing
 
